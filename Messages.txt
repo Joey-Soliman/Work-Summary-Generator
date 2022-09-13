@@ -1,0 +1,10 @@
+Calendar Events:
+09.07.2022 23:00:00: test 9/7 night
+09.08.2022 02:30:00: test 9/8 morning
+Jira Issues Created:
+ZOOM-4: Make a jira query 4 - To Do
+Jira Issues Status Updated:
+ZOOM-3: Make a jira query 3 - In Progress
+ZOOM-2: Make a jira query 2 - In Progress
+ZOOM-1: Make a jira query - Done
+
